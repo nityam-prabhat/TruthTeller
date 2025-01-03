@@ -19,7 +19,9 @@ Follow these steps to set up the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nityam-prabhat/TruthTeller/
+   git lfs fetch --all
+   
+   git lfs clone https://github.com/nityam-prabhat/TruthTeller/
 
    cd TruthTeller
 
