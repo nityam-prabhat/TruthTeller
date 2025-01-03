@@ -20,7 +20,7 @@ Follow these steps to set up the project:
 
    ```bash
    git lfs fetch --all
-   
+   git lfs pull
    git lfs clone https://github.com/nityam-prabhat/TruthTeller/
 
    cd TruthTeller
